@@ -4,6 +4,18 @@ This document outlines a detailed timeline of tasks to ensure a smooth transitio
 
 ---
 
+### **Key Requirements**
+
+#### **English Language (IELTS)**
+
+| Family Member | Requirement | IELTS Score Needed | Notes |
+| :--- | :--- | :--- | :--- |
+| **Hector** | **Vocational English** | **5.0 overall**, with at least **5.0 in each band**. | Mandatory for the primary 482 visa applicant. |
+| **Liz** | **Functional English** | **4.5 average** across the four bands. | Required for dependents to avoid a government fee. |
+| **Natalia & Alex**| **School Enrolment** | **Assessment on arrival.** | No visa requirement. School will assess upon arrival. |
+
+---
+
 ### **Phase 1: Preparation & Applications (October 2025 - March 2026)**
 
 *   **[ ] Critical Path: Visa Process**
@@ -13,6 +25,10 @@ This document outlines a detailed timeline of tasks to ensure a smooth transitio
 *   **[ ] Critical Path: Schooling (Natalia - VCASS)**
     *   All tasks related to Natalia's VCASS application are now detailed in the `VCASS_Application_Plan.md` file. This includes monologue preparation, video auditions, and application submission.
     *   **See: [VCASS_Application_Plan.md](./VCASS_Application_Plan.md)**
+
+*   **[ ] Schooling (Alex)**
+    *   Alex's school selection is dependent on our final housing location and will be actioned upon arrival in Melbourne.
+    *   **See: [Alex_School_Plan.md](./Alex_School_Plan.md)**
 
 *   **[ ] Finances & Logistics (October 2025 - March 2026):**
     *   **[x] Oct-Nov:** Began tracking household expenses to establish a baseline budget.
