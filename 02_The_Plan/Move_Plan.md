@@ -6,118 +6,21 @@ This document outlines a detailed timeline of tasks to ensure a smooth transitio
 
 ### **Phase 1: Preparation & Applications (October 2025 - March 2026)**
 
-#### **October - December 2025 (9-7 Months Out)**
-*   **[ ] Visa Process:**
-    *   **Hector & Liz:** Begin preparing for your IELTS exams. Use practice tools like ELSA Speak.
-    *   **Hector:** Coordinate with Bundle of Rays (BoR) to formally begin the Sponsorship and Nomination stages for the Skills in Demand (Subclass 482) visa.
-    *   **Hector:** Confirm with BoR if a formal skills assessment from the Australian Computer Society (ACS) is required. If so, begin gathering all necessary documents (qualifications, detailed work experience letters, etc.). This can be a lengthy process.
-*   **[ ] Schooling (Natalia - VCASS):**
-    *   **Natalia:** Begin selecting and preparing her three contrasting monologues (one classical, two contemporary) for the VCASS video audition.
-    *   Monitor the VCASS website for the official opening of 2027 entry applications.
-*   **[ ] Finances:**
-    *   Start tracking current household expenses in detail to build a baseline for your Melbourne budget.
-    *   Begin setting aside funds for the move (visa costs, flights, initial rental bond, etc.).
+*   **[ ] Critical Path: Visa Process**
+    *   All tasks related to the Subclass 482 visa are now detailed in the `Visa_Process_Plan.md` file. This includes IELTS preparation, skills assessment, and final application lodging.
+    *   **See: [Visa_Process_Plan.md](./Visa_Process_Plan.md)**
 
----
-##### **Weekly Breakdown: October 2025**
-*   **Week 1 (Oct 6-12):**
-    *   **[ ] Hector & Liz:** Research IELTS exam format and create a study schedule.
-    *   **[ ] Hector & Liz:** Take an initial practice test to establish a baseline.
-    *   **[ ] Natalia:** Research classical and contemporary monologues suitable for auditions.
-*   **Week 2 (Oct 13-19):**
-    *   **[ ] Hector & Liz:** Dedicate daily study time to IELTS preparation.
-    *   **[ ] Natalia:** Select a shortlist of 5-6 monologues.
-*   **Week 3 (Oct 20-26):**
-    *   **[ ] Hector:** Send a formal email to your contact at BoR to initiate the visa sponsorship process.
-    *   **[ ] Natalia:** Finalize her three monologue choices.
-*   **Week 4 (Oct 27-Nov 2):**
-    *   **[ ] Hector:** Follow up with BoR and ask for confirmation on the ACS skills assessment requirement.
-    *   **[ ] Hector:** Begin locating and digitizing university transcripts and old employment contracts for the potential skills assessment.
-    *   **[ ] Family:** Set up a spreadsheet to track all current monthly expenses.
+*   **[ ] Critical Path: Schooling (Natalia - VCASS)**
+    *   All tasks related to Natalia's VCASS application are now detailed in the `VCASS_Application_Plan.md` file. This includes monologue preparation, video auditions, and application submission.
+    *   **See: [VCASS_Application_Plan.md](./VCASS_Application_Plan.md)**
 
-##### **Weekly Breakdown: November 2025**
-*   **Week 1 (Nov 3-9):**
-    *   **[ ] Hector & Liz:** Continue with IELTS study, focusing on weaker areas identified in practice tests.
-    *   **[ ] Natalia:** Begin memorizing and rehearsing her chosen monologues.
-    *   **[ ] Finances:** Review the first month of expense tracking and create initial categories for the Melbourne budget.
-*   **Week 2 (Nov 10-16):**
-    *   **[ ] Hector:** If ACS assessment is confirmed, start drafting detailed work experience letters. Request letters from previous employers if needed.
-    *   **[ ] Natalia:** Record a practice video of her monologues to review her performance.
-*   **Week 3 (Nov 17-23):**
-    *   **[ ] Hector & Liz:** Take another full IELTS practice test to measure progress.
-    *   **[ ] Finances:** Open a dedicated savings account for the move and make the first transfer.
-*   **Week 4 (Nov 24-30):**
-    *   **[ ] Hector:** Continue gathering all documentation for the ACS assessment.
-    *   **[ ] Schooling:** Check the VCASS website for any updates on 2027 application dates.
-
-##### **Weekly Breakdown: December 2025**
-*   **Week 1 (Dec 1-7):**
-    *   **[ ] Hector & Liz:** Focus IELTS study on exam strategies and time management.
-    *   **[ ] Natalia:** Refine her monologue performances based on feedback and self-review.
-*   **Week 2 (Dec 8-14):**
-    *   **[ ] Visa:** Review all visa-related documents gathered so far to ensure they are complete and correctly formatted.
-    *   **[ ] Finances:** Finalize the baseline budget and estimate the target savings goal for the initial settling-in period.
-*   **Week 3 (Dec 15-21):**
-    *   **[ ] Hector & Liz:** Look at available IELTS test dates for January/February 2026 in Puebla or Mexico City.
-    *   **[ ] Family:** Plan a relaxed week for the holidays before the busy period of applications begins in the new year.
-*   **Week 4 (Dec 22-28):**
-    *   **Holiday Break.**
----
-
-#### **January - March 2026 (6-4 Months Out)**
-*   **[ ] Visa Process:**
-    *   **Hector & Liz:** Schedule and take your IELTS exams in Puebla or Mexico City.
-    *   **Hector:** Submit your skills assessment to ACS if required.
-    *   Once BoR has the sponsorship and nomination approved, and you have your IELTS/ACS results, lodge the visa application for the entire family.
-*   **[ ] Schooling (Natalia - VCASS):**
-    *   As soon as applications open (likely early 2026), submit Natalia's online application, including her video audition.
-*   **[ ] Moving & Belongings:**
-    *   **Decision:** Proceed with the plan to **sell most bulky belongings (including office/gaming desks and chairs) in Mexico** and buy new/second-hand in Melbourne.
-    *   **Action:** Inventory items to be sold vs. packed (laptops, computers, monitors, clothes, personal items).
-    *   **Action:** Get a quote for a smaller, partial shipment (LCL) if you decide to ship the monitors and other smaller valuables instead of carrying them as luggage.
-*   **[ ] Travel:**
-    *   This is the optimal window to book your flights for early July 2026. Monitor prices and book for all four family members.
-
----
-##### **Weekly Breakdown: January 2026**
-*   **Week 1 (Jan 5-11):**
-    *   **[ ] Hector & Liz:** Book your IELTS exams for a date in late January or early February.
-    *   **[ ] Schooling:** Check the VCASS website for the official opening of 2027 applications.
-*   **Week 2 (Jan 12-18):**
-    *   **[ ] Hector:** Finalize and submit your ACS skills assessment application (if required).
-    *   **[ ] Travel:** Start monitoring flight prices on Google Flights, Skyscanner, etc. Set up price alerts.
-*   **Week 3 (Jan 19-25):**
-    *   **[ ] Hector & Liz:** Final intensive study week for the IELTS exams.
-    *   **[ ] Moving:** Create a detailed inventory of all household items. Categorize as "Sell," "Pack," or "Donate."
-*   **Week 4 (Jan 26-Feb 1):**
-    *   **[ ] Hector & Liz:** Take your IELTS exams.
-    *   **[ ] Moving:** Research local options for selling used furniture (Facebook Marketplace, consignment stores).
-
-##### **Weekly Breakdown: February 2026**
-*   **Week 1 (Feb 2-8):**
-    *   **[ ] Schooling:** If VCASS applications are open, create the account and begin filling out Natalia's application form.
-    *   **[ ] Travel:** Continue monitoring flight prices. Note any trends.
-*   **Week 2 (Feb 9-15):**
-    *   **[ ] Visa:** You should receive your IELTS results around this time.
-    *   **[ ] Schooling:** Prepare and upload Natalia's video audition to the VCASS application portal.
-*   **Week 3 (Feb 16-22):**
-    *   **[ ] Schooling:** Submit Natalia's completed VCASS application.
-    *   **[ ] Moving:** Get a quote from a shipping company for a small LCL (Less than Container Load) shipment for valuable electronics and personal items.
-*   **Week 4 (Feb 23-Mar 1):**
-    *   **[ ] Visa:** Check with BoR on the status of the Sponsorship and Nomination. The ACS assessment result should also be close.
-    *   **[ ] Travel:** If a good flight deal appears, book your flights for early July.
-
-##### **Weekly Breakdown: March 2026**
-*   **Week 1 (Mar 2-8):**
-    *   **[ ] Visa:** All required documents should now be ready: IELTS results, ACS assessment, and BoR nomination.
-    *   **[ ] Visa:** Lodge the complete visa application for the entire family.
-*   **Week 2 (Mar 9-15):**
-    *   **[ ] Visa:** You will likely receive a request for the family's health examinations. Schedule these as soon as possible.
-    *   **[ ] Travel:** If you haven't booked flights yet, this is the final month in the optimal window. Book them now.
-*   **Week 3 (Mar 16-22):**
-    *   **[ ] Family:** Attend the medical examination appointments.
-*   **Week 4 (Mar 23-29):**
-    *   **[ ] Moving:** Begin the process of selling the first batch of non-essential large items.
+*   **[ ] Finances & Logistics (October 2025 - March 2026):**
+    *   **[x] Oct-Nov:** Began tracking household expenses to establish a baseline budget.
+    *   **[ ] Nov:** Open a dedicated savings account for the move.
+    *   **[ ] Jan:** Create a detailed inventory of household items to be sold, packed, or donated.
+    *   **[ ] Jan-Mar:** Begin monitoring flight prices and book for early July 2026.
+    *   **[ ] Feb:** Get a quote for a small LCL shipment for valuable personal items.
+    *   **[ ] Mar:** Begin selling the first batch of non-essential large items.
 ---
 
 ---
