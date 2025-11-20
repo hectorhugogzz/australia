@@ -30,13 +30,39 @@ This document outlines a detailed timeline of tasks to ensure a smooth transitio
     *   Alex's school selection is dependent on our final housing location and will be actioned upon arrival in Melbourne.
     *   **See: [Alex_School_Plan.md](./Alex_School_Plan.md)**
 
-*   **[ ] Finances & Logistics (October 2025 - March 2026):**
-    *   **[x] Oct-Nov:** Began tracking household expenses to establish a baseline budget.
-    *   **[ ] Nov:** Open a dedicated savings account for the move.
-    *   **[ ] Jan:** Create a detailed inventory of household items to be sold, packed, or donated.
-    *   **[ ] Jan-Mar:** Begin monitoring flight prices and book for early July 2026.
-    *   **[ ] Feb:** Get a quote for a small LCL shipment for valuable personal items.
-    *   **[ ] Mar:** Begin selling the first batch of non-essential large items.
+*   **[ ] Finances & Logistics:**
+
+    ##### **Weekly Breakdown: October 2025**
+    *   **Week 1-4 (Oct 1-31):**
+        *   **[x] Finances:** Begin tracking household expenses to establish a baseline budget.
+
+    ##### **Weekly Breakdown: November 2025**
+    *   **Week 1-2 (Nov 1-15):**
+        *   **[ ] Finances:** Continue tracking household expenses.
+    *   **Week 3-4 (Nov 16-30):**
+        *   **[ ] Finances:** Open a dedicated savings account for the move.
+
+    ##### **Weekly Breakdown: December 2025**
+    *   **Week 1-4 (Dec 1-31):**
+        *   **[ ] Finances:** Continue building savings for the move.
+
+    ##### **Weekly Breakdown: January 2026**
+    *   **Week 1-2 (Jan 1-15):**
+        *   **[ ] Logistics:** Create a detailed inventory of household items to be sold, packed, or donated.
+    *   **Week 3-4 (Jan 16-31):**
+        *   **[ ] Travel:** Begin monitoring flight prices for early July 2026.
+
+    ##### **Weekly Breakdown: February 2026**
+    *   **Week 1-2 (Feb 1-15):**
+        *   **[ ] Moving:** Get a quote for a small LCL shipment for valuable personal items (if considering shipping).
+    *   **Week 3-4 (Feb 16-28):**
+        *   **[ ] Travel:** Continue monitoring flight prices.
+
+    ##### **Weekly Breakdown: March 2026**
+    *   **Week 1-2 (Mar 1-15):**
+        *   **[ ] Moving:** Begin selling the first batch of non-essential large items.
+    *   **Week 3-4 (Mar 16-31):**
+        *   **[ ] Travel:** Book flights for early July 2026 (as per the best booking time frame).
 ---
 
 ---
@@ -132,12 +158,16 @@ This document outlines a detailed timeline of tasks to ensure a smooth transitio
         *   Home Computer: 27" monitor, docking station.
         *   Alex's Room: Gaming desk and chair.
 
-##### **August 2026 Onwards: Finalizing Setup**
-*   **[ ] Health:** Register for Medicare (if eligible) or confirm your private health insurance is active.
-*   **[ ] Schooling (Natalia):** Attend the on-site VCASS audition if invited.
-*   **[ ] Transportation:**
-    *   Decide whether to purchase a car. If so, begin looking at used car dealerships.
-    *   Begin the process of converting your Mexican driver's licenses to Victorian licenses (book knowledge/hazard/practical tests).
-*   **[ ] Furnishing:** Continue furnishing your home.
-*   **[ ] Community:** Explore extracurricular activities for the children (ice skating for Natalia, Taekwondo for Alex).
-*   **[ ] Finances:** Ensure your TFNs have been provided to your employer (Hector) and bank to avoid excess tax.
+##### **August 2026: Finalizing Setup**
+*   **Week 1 (Aug 1-7):**
+    *   **[ ] Health:** Register for Medicare (if eligible) or confirm your private health insurance is active.
+    *   **[ ] Finances:** Ensure your TFNs have been provided to your employer (Hector) and bank to avoid excess tax.
+*   **Week 2 (Aug 8-14):**
+    *   **[ ] Schooling (Natalia):** Attend the on-site VCASS audition if invited.
+    *   **[ ] Transportation:** Decide whether to purchase a car. If so, begin looking at used car dealerships.
+*   **Week 3 (Aug 15-21):**
+    *   **[ ] Transportation:** Begin the process of converting your Mexican driver's licenses to Victorian licenses (book knowledge/hazard/practical tests).
+    *   **[ ] Furnishing:** Continue furnishing your home, prioritizing essential remaining items.
+*   **Week 4 (Aug 22-31):**
+    *   **[ ] Community:** Explore extracurricular activities for the children (ice skating for Natalia, Taekwondo for Alex) and begin enrollment if suitable options are found.
+    *   **[ ] Furnishing:** Finalize major furnishing purchases and home setup.

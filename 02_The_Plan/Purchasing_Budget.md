@@ -22,18 +22,19 @@ This section covers the specific tech and office items you've flagged to purchas
 
 ## 2. Household Appliances
 
-This budget assumes you will need to purchase all major appliances for your rental home.
+This budget assumes you will need to purchase all major appliances for your rental home. This category includes essential white goods and kitchen appliances that are typically not furnished in Australian rental properties, as well as smaller items for daily use.
 
 | Item | Category | Estimated Cost (AUD) | Notes |
 | :--- | :--- | :--- | :--- |
-| Refrigerator | Family size (400L+) | $1,000 - $2,500 | |
-| Washing Machine | Front-loader, 8kg+ | $700 - $1,500 | |
-| Clothes Dryer | | $400 - $1,000 | |
+| Refrigerator | Family size (400L+) | $1,000 | |
+| Washing/Dryer Combo | Front-loader, 8kg+ | $1,100 | |
 | Dishwasher | | $600 - $1,200 | |
 | Microwave | | $150 - $400 | |
-| Television | 55" or larger, Smart TV | $800 - $2,000 | |
+| Television | 3 x 55" or larger, Smart TV | $2,700 | |
 | Small Appliances | Kettle, Toaster, etc. | $200 - $500 | |
-| **Sub-Total** | | **$3,850 - $9,100** | |
+| Thermomix TM7 | High-end kitchen appliance | $2,649 | |
+| Cooking Ware & Dining Sets | Pots, pans, dishes, cutlery, glasses | $3,000 | Estimated based on robinskitchen.com.au |
+| **Sub-Total** | | **$11,399 - $12,549** | |
 
 ---
 
@@ -78,9 +79,9 @@ This summary combines all estimated costs. The "Low End" assumes buying more sec
 | Category | Low End Estimate (AUD) | High End Estimate (AUD) |
 | :--- | :--- | :--- |
 | Home Office & Tech | $1,450 | $3,300 |
-| Household Appliances | $3,850 | $9,100 |
+| Household Appliances | $11,399 | $12,549 |
 | General Furniture | $7,700 | $20,600 |
-| **Total Estimated Cost** | **$13,000** | **$33,000** |
+| **Total Estimated Cost** | **$20,549** | **$36,449** |
 
 ### Grand Total (Including Bikes)
 

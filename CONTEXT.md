@@ -29,7 +29,8 @@ This document synthesizes all research findings into a comprehensive guide for t
     *   **Excluding Rent:** AUD $5,500 - $8,600
     *   **Including Rent (Typical 3BR House):** AUD $7,000 - $9,000+
 *   **Additional Income Source:**
-    *   **Innovaworx & Mexico House Rental (Net):** ~167,000 MXN/month, which is approximately **~AUD $13,744/month**. This can significantly supplement the Melbourne-based income.
+    *   **Innovaworx (Net):** ~167,000 MXN/month, which is approximately **~AUD $13,744/month**. This can significantly supplement the Melbourne-based income.
+*   **Puebla Home (Investment):** The home in Puebla will be kept as an investment. It incurs a monthly mortgage of 40,000 MXN and 1,300 MXN in maintenance, with a rental income of 26,000 MXN (furnished). This results in a net monthly expense of 15,300 MXN (~AUD $1,260).
 *   **Initial Settling-in Fund:**
     *   A fund of **AUD $15,000 - $25,000** is recommended to cover:
         *   **Temporary Accommodation (2-4 weeks):** AUD $2,000 - $6,000

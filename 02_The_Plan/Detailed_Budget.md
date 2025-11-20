@@ -40,9 +40,9 @@ This document provides a detailed breakdown of estimated costs for the move to M
 | **Public Transport (Myki)** | $200 - $400 | Assuming 2-4 regular users. |
 | **Car Running Costs** | $400 - $600 | Insurance, fuel, maintenance (annual costs averaged out). |
 | **Schooling (International Fees)** | $4,050 | Average of Natalia's ($2,346/mo) and Alex's ($1,707/mo) fees. |
-| **Healthcare (OSHC/Private)** | $400 - $700 | Estimate for family cover. |
+| **Overseas Visitor Health Cover (OVHC)** | $200 - $230 | Estimate for family of 4, basic to standard cover. |
 | **Discretionary Spending** | $500 - $1,000 | Dining out, entertainment, etc. |
-| **Total Monthly Costs:** | **$10,670 - $13,290** | |
+| **Total Monthly Costs:** | **$10,470 - $12,820** | |
 
 ---
 
