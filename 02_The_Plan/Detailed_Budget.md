@@ -30,7 +30,7 @@ This document provides a detailed breakdown of estimated costs for the move to M
 
 ---
 
-### **3. Ongoing Monthly Living Costs**
+### 3. Ongoing Monthly Living Costs
 
 | Item | Estimated Cost (AUD) | Notes |
 | :--- | :--- | :--- |
@@ -39,15 +39,20 @@ This document provides a detailed breakdown of estimated costs for the move to M
 | **Groceries** | $870 - $1,170 | |
 | **Public Transport (Myki)** | $200 - $400 | Assuming 2-4 regular users. |
 | **Car Running Costs** | $400 - $600 | Insurance, fuel, maintenance (annual costs averaged out). |
-| **Schooling (International Fees)** | $4,050 | Average of Natalia's ($2,346/mo) and Alex's ($1,707/mo) fees. |
+| **Schooling (Local Contributions)** | $100 - $300 | **Correction:** 482 Visa holders are exempt from tuition fees in Victoria. Budget is for uniforms/materials only. |
 | **Overseas Visitor Health Cover (OVHC)** | $200 - $230 | Estimate for family of 4, basic to standard cover. |
 | **Discretionary Spending** | $500 - $1,000 | Dining out, entertainment, etc. |
-| **Total Monthly Costs:** | **$10,470 - $12,820** | |
+| **Total Monthly Costs:** | **$6,520 - $9,070** | |
 
 ---
 
 ### **Summary & Funding**
 
 *   **Total One-Time Costs (Pre-move + Settlement):** **~$50,050 - $74,830 AUD**
-*   This highlights the importance of having a substantial dedicated savings fund before the move.
-*   The ongoing monthly costs will be covered by Hector's salary and supplemented by the additional income from Innovaworx and the rental property in Mexico (~$13,744 AUD/month).
+*   **Monthly Budget Health:**
+    *   **Net Salary (BoR):** ~$11,988 AUD (after tax, no Medicare levy).
+    *   **Mexico House Shortfall:** ~$1,070 AUD.
+    *   **Net Available:** ~$10,918 AUD.
+    *   **Est. Expenses:** ~$6,520 - $9,070 AUD.
+    *   **SURPLUS:** **+$1,848 to +$4,398 AUD / month.**
+*   **Conclusion:** This surplus allows for a comfortable lifestyle, savings for travel, and a safety net without strictly relying on Innovaworx income for basic survival.

@@ -1,0 +1,12 @@
+[debug] [2026-02-08T19:39:32.223Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-08T19:39:32.224Z] > authorizing via signed-in user (hector@innovaworx.cloud)
+[debug] [2026-02-08T19:39:32.230Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-08T19:39:32.230Z] > authorizing via signed-in user (hector@innovaworx.cloud)
+[debug] [2026-02-08T19:39:32.382Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-08T19:39:32.382Z] > authorizing via signed-in user (hector@innovaworx.cloud)
+[debug] [2026-02-08T19:39:32.383Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-08T19:39:32.383Z] > authorizing via signed-in user (hector@innovaworx.cloud)
+[debug] [2026-02-08T19:39:32.575Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-08T19:39:32.575Z] > authorizing via signed-in user (hector@innovaworx.cloud)
+[debug] [2026-02-08T19:39:32.576Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-02-08T19:39:32.576Z] > authorizing via signed-in user (hector@innovaworx.cloud)
