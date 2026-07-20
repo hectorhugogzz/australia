@@ -5,7 +5,7 @@
 *   **Visa Stream:** Specialist Skills Stream (due to salary > AUD $141,210)
 *   **Sponsoring Company:** Bundle of Rays (BoR)
 *   **Role:** CTO
-*   **Salary:** AUD 175,000 - 200,000 per year
+*   **Salary:** AUD 250,000 per year + super
 *   **Start Date:** February 2026
 *   **English Language Test (Hector):** Required. Chosen test: IELTS. Minimum scores apply from September 13, 2025 (IELTS 5.0 in each band).
 *   **English Language Test (Liz):** Required for 'Functional English' as she studied in Spanish.

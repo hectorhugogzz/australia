@@ -22,73 +22,55 @@ The Subclass 482 visa process consists of three main stages. Bundle of Rays (BoR
 
 ---
 
-### **Week-by-Week Action Plan**
+### **Month-by-Month Action Plan (2026 – early 2027)**
+
+> **Dependency:** BoR must have its Nomination approved (and provide the TRN) before the family can lodge the visa. BoR begins on **July 27, 2026** and finalizes the nomination after funding lands (**Sep–Oct 2026**). Applicant prep runs in parallel so lodgement can happen **as soon as the TRN is available (Oct/Nov 2026)**.
 
 ---
 
-#### **November 2025: Document Preparation**
+#### **July 2026: Kick-off**
 
-*   **Week 2 (Nov 10-16):**
-    *   **[ ] YOU:** Send the inquiry email to BoR (as drafted below).
-    *   **[ ] YOU:** Based on the assumption ACS is required, start drafting detailed work experience letters. Request reference letters from previous employers.
-*   **Week 3 (Nov 17-23):**
-    *   **[ ] YOU (Hector & Liz):** Take a full IELTS practice test to measure progress.
-    *   **[ ] BoR:** (Ideally) Responds to your inquiry, confirming their SBS status and ACS/LMT requirements.
-*   **Week 4 (Nov 24-30):**
-    *   **[ ] YOU:** Continue gathering and digitizing all documents required for the ACS assessment (transcripts, reference letters, etc.).
+*   **[ ] BoR (Jul 27):** Begins Standard Business Sponsorship + Nomination prep, and **starts the 4-week Labour Market Testing (LMT) advertising** for the CTO role (unless exempt).
+*   **[ ] YOU:** Send/confirm the inquiry to BoR (questions below). Request reference letters from previous employers and start drafting detailed work-experience letters for the ACS.
+*   **[ ] YOU (Hector & Liz):** Book IELTS dates for **August/September 2026** in Puebla or Mexico City.
 
 ---
 
-#### **December 2025: Finalizing Submissions**
+#### **August 2026: Documents & IELTS Prep**
 
-*   **Week 1 (Dec 1-7):**
-    *   **[ ] YOU (Hector & Liz):** Focus IELTS study on exam strategies and time management.
-*   **Week 2 (Dec 8-14):**
-    *   **[ ] YOU:** Review all ACS and visa documents gathered so far to ensure they are complete and correctly formatted.
-*   **Week 3 (Dec 15-21):**
-    *   **[ ] YOU (Hector & Liz):** Look at available IELTS test dates for January/February 2026 in Puebla or Mexico City and book your preferred date.
-*   **Week 4 (Dec 22-28):**
-    *   **Holiday Break.**
+*   **[ ] BoR:** LMT advertising runs (4 weeks minimum).
+*   **[ ] YOU:** Gather and digitize all ACS documents (transcripts, reference letters, employment evidence). Send birth/marriage certificates and academic records to a certified translator.
+*   **[ ] YOU (Hector & Liz):** Intensive IELTS study; sit a full practice test.
 
 ---
 
-#### **January 2026: Key Submissions**
+#### **September 2026: Submissions**
 
-*   **Week 1 (Jan 5-11):**
-    *   **[ ] YOU:** Finalize and submit your ACS skills assessment application.
-*   **Week 2 (Jan 12-18):**
-    *   **[ ] BoR:** (Ideally) Lodges their Standard Business Sponsorship and Nomination applications.
-*   **Week 3 (Jan 19-25):**
-    *   **[ ] YOU (Hector & Liz):** Final intensive study week for the IELTS exams.
-*   **Week 4 (Jan 26-Feb 1):**
-    *   **[ ] YOU (Hector & Liz):** Take your official IELTS exams.
+*   **[ ] YOU:** Submit the **ACS skills assessment** application.
+*   **[ ] YOU (Hector & Liz):** Sit the official **IELTS** exams.
+*   **[ ] BoR:** After funding lands (Sep–Oct), lodge the **Standard Business Sponsorship + Nomination** for the CTO role.
 
 ---
 
-#### **February 2026: Results & Preparation**
+#### **October 2026: Results & Nomination Approval**
 
-*   **Week 1 (Feb 2-8):**
-    *   **[ ] YOU:** Begin gathering police clearance certificates.
-*   **Week 2 (Feb 9-15):**
-    *   **[ ] YOU:** Your IELTS results should be available around this time.
-*   **Week 3 (Feb 16-22):**
-    *   **[ ] YOU:** Your ACS skills assessment result should be available around this time.
-*   **Week 4 (Feb 23-Mar 1):**
-    *   **[ ] YOU:** Check in with BoR on the status of their Sponsorship and Nomination applications.
+*   **[ ] YOU:** IELTS results (~2 weeks after exam) and ACS result (~8–10 weeks) expected. Begin gathering Mexican **police clearance** certificates.
+*   **[ ] YOU:** **Hector starts working remotely for BoR** (Oct/Nov).
+*   **[ ] BoR:** Nomination approved → **provide Hector the TRN**.
 
 ---
 
-#### **March 2026: Visa Lodgement**
+#### **October / November 2026: Visa Lodgement**
 
-*   **Week 1 (Mar 2-8):**
-    *   **[ ] GOAL:** Lodge the visa application.
-    *   **[ ] YOU:** Once BoR confirms their nomination is approved, and you have your positive IELTS/ACS results, lodge the final visa application for the entire family.
-*   **Week 2 (Mar 9-15):**
-    *   **[ ] YOU:** You will likely receive a request for the family's health examinations. Schedule these as soon as possible.
-*   **Week 3 (Mar 16-22):**
-    *   **[ ] YOU:** The entire family attends the medical examination appointments.
-*   **Week 4 (Mar 23-onwards):**
-    *   **[ ] YOU:** Monitor the visa status online and respond to any further requests for information.
+*   **[ ] GOAL:** **Lodge the 482 visa** for the whole family via ImmiAccount, as soon as the nomination is approved and IELTS/ACS results are in hand.
+*   **[ ] YOU:** Complete the family's **health examinations** on request.
+*   **[ ] YOU:** Monitor status and respond to any requests for information.
+
+---
+
+#### **November – December 2026: Grant**
+
+*   **[ ] EXPECTED:** Visa granted under the **Specialist Skills stream** (fast processing). This leaves a comfortable buffer before the **late Jan / early Feb 2027** move and lets school enrolments proceed with the Visa Grant Notice.
 
 ---
 

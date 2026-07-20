@@ -9,11 +9,17 @@ This document synthesizes all research findings into a comprehensive guide for t
 *   **Visa Type:** Skills in Demand (Subclass 482), Specialist Skills Stream.
 *   **Sponsor:** Bundle of Rays (BoR).
 *   **Role:** CTO for Hector.
-*   **Salary:** AUD $175,000 - $200,000 per year.
+*   **Salary:** **AUD $250,000 per year + super** (~$14,280/month take-home after tax; Medicare-levy exempt on 482). Super at 12% ≈ $30,000/yr on top.
 *   **Key Requirements:**
     *   **English Test (IELTS):** Required for both Hector and Liz.
     *   **Skills Assessment (ACS):** Highly likely required for the CTO role.
-*   **Timeline:** Processing is expected to take approximately 4-10 weeks once all documents are lodged.
+*   **Timeline (Updated):**
+    *   **Jul 27, 2026:** BoR begins its sponsorship work (Standard Business Sponsorship + Nomination + starts 4-week Labour Market Testing).
+    *   **Sep–Oct 2026:** BoR receives funding, then lodges the CTO Nomination and provides Hector the TRN.
+    *   **Aug–Oct 2026:** Hector & Liz complete IELTS, ACS skills assessment, document translation, police checks and health exams.
+    *   **Oct/Nov 2026:** Hector starts working **remotely** for BoR; family lodges the 482 visa once the nomination is approved.
+    *   **Nov–Dec 2026:** Visa granted (Specialist Skills stream — fast processing, ~4-10 weeks max).
+    *   **Late Jan / early Feb 2027:** Family moves to Melbourne, in time for the 2027 school year.
 *   **Estimated Costs (Family of 4):**
     *   **Visa Application:** ~AUD $8,030
     *   **Health Exams:** ~AUD $1,400 - $2,000
@@ -43,6 +49,7 @@ This document synthesizes all research findings into a comprehensive guide for t
 
 ## 3. Housing & Neighborhoods
 
+*   **⭐ Primary Target (Updated): Bayside inner-south** — **Port Melbourne / Albert Park / Middle Park / South Melbourne.** This keeps the family in-zone for the children's chosen schools (Port Melbourne Secondary College + Albert Park College) with excellent direct tram access to Hector's remote-work flexibility and the city. Confirm one address satisfies **both** school zones before leasing.
 *   **Top Recommended Suburbs:** Based on family-friendliness, commute to the Arts Precinct, and good schools.
     1.  **Camberwell:** Affluent, established, direct tram access.
     2.  **Glen Iris:** Family-oriented, direct tram access.
@@ -64,22 +71,19 @@ This document synthesizes all research findings into a comprehensive guide for t
 
 ## 4. Schooling
 
+Both children attend **public (government) schools** — tuition-exempt for 482 dependents — starting the 2027 school year (Term 1). Natalia pursues performing arts as an **extracurricular** rather than a full-time arts school.
+
 *   **Natalia (Entering Year 11 in 2027):**
-    *   **Primary Goal:** Victorian College of the Arts Secondary School (VCASS), Theatre Arts.
-    *   **Action:** Prepare three contrasting monologues for video audition.
-    *   **Timeline:** Applications open early 2026 for 2027 entry. Auditions around August 2026.
-    *   **Fees (International Student):** ~AUD $28,161 per year.
-*   **Alex (Entering Year 7/8 in 2026/2027):**
+    *   **Day School:** **Albert Park College** (public). Tuition-exempt as a 482 dependent; ~$1,000–$2,000/yr for materials, uniforms and contributions.
+    *   **Performing Arts:** **Stage School Australia** ([stageschool.com.au](https://stageschool.com.au/)) — after-school / weekend Musical Theatre training. Audition/apply on or before arrival.
+    *   **Action:** Confirm Albert Park College zoning against the chosen rental address; enrol before Term 1 2027; enquire and audition for Stage School.
+    *   **Fallbacks:** VCASS (public specialist) or PSA (private, ~$17k/yr) — see `Natalia_School_Plan.md`.
+*   **Alex (Entering Year 8 in 2027):**
     *   **Interest:** STEM, Engineering, Software Development.
-    *   **Top School Options (Public, with strong STEM programs):**
-        *   **Port Melbourne Secondary College:** Strong STEAM focus.
-        *   **Albert Park College:** New STEM centre, SEAL program.
-        *   **Bentleigh Secondary College:** State-of-the-art STEAM facility.
-        *   **Northcote High School:** Robotics and gaming clubs.
-        *   **Glen Waverley Secondary College:** Partnership with Monash Tech School.
-        *   **Kew High School:** State-of-the-art STEM Centre.
-        *   **Balwyn High School:** Select Entry Accelerated Learning (SEAL) program.
-    *   **Fees (International Student):** ~AUD $18,488 (Year 7-10) to $20,748 (Year 11-12) per year.
+    *   **School:** **Port Melbourne Secondary College** (public, strong STEAM focus — robotics, fabrication lab).
+    *   **Fees (482 Visa Dependent):** **Exempt from standard tuition** in Victorian government schools. Budget ~$1,000–$2,000/yr for materials, uniforms, and contributions.
+*   **⚠️ Zoning Note:** Port Melbourne Secondary College and Albert Park College have **different catchment zones**. Confirm the rental address works for **both** schools before signing a lease.
+*   **⚠️ Timing Note:** The 2027 school year begins **late Jan / early Feb 2027** — the same window as arrival. Secure an in-zone address early (ideally before arrival) so both children start Term 1 on time.
 
 ---
 

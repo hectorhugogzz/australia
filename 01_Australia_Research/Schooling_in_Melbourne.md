@@ -1,5 +1,7 @@
 # Schooling in Melbourne
 
+> **⚠️ Plan updated (Jul 2026):** The final decisions are: **Alex → Port Melbourne Secondary College**, **Natalia → Albert Park College** (public) + **Stage School Australia** as an extracurricular. VCASS/PSA are now fallbacks only. The VCASS/PSA-focused notes below are retained as background research — see `02_The_Plan/Natalia_School_Plan.md` and `Alex_School_Plan.md` for the current plan.
+
 ## Natalia's Schooling Goals
 *   **Secondary School Goal:** Victorian College of the Arts Secondary School (VCASS) - Theatre Arts program (Year 11 entry in 2027).
     *   **VCASS 2027 Application/Audition Timeline:** Applications likely open in early 2026, with auditions (including potential on-site audition in Melbourne) in August 2026. Natalia should begin preparing monologues immediately.
